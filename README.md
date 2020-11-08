@@ -4,7 +4,7 @@
 Intro
 ---
 
-![About this Mac](https://github.com/doanhmaple/Asus-TUF-Gaming-FX505GE-Hackintosh/raw/master/images/About_Mac.png)
+![About this Mac](https://github.com/doanhmaple/Asus-TUF-Gaming-FX505GE-Hackintosh/blob/main/IMG/About_Mac.png)
 
 This BIOS is actual only for Asus TUF Gaming FX505GE
 
